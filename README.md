@@ -16,24 +16,3 @@ This project help solving into 4 parts
 
 4.) By using open data from government and from volunteers can help rescuers to analyze the situation and for data that collected from platform will be use for planning to handle other disaster in the future.
 (For this platform is an Early Adoption version to work with flooding disaster.)
-
-
-    
-<link rel="stylesheet" href="https://unpkg.com/mermaid@#version#/dist/mermaid.min.css">
-
- <div class="mermaid">
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->John: Hello John, how are you?
-    loop Healthcheck
-        John->John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts <br/>prevail...
-    John-->Alice: Great!
-    John->Bob: How about you?
-    Bob-->John: Jolly good!
-    </div>
-
-<script src="https://unpkg.com/mermaid@#version#/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
